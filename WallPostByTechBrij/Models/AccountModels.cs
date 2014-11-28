@@ -15,6 +15,7 @@ namespace WallPostByTechBrij.Models
         {
         }
 
+
         public DbSet<UserProfile> UserProfiles { get; set; }
     }
 
